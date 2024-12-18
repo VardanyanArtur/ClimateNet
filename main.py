@@ -1,5 +1,5 @@
-from bme280Sensor import BME280Sensor
-from ltr390Sensor import LTR390Sensor
+from bme280 import BME280Sensor
+from ltr390 import LTR390Sensor
 from PMSensor import PM25Sensor
 
 bme = BME280Sensor()
